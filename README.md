@@ -6,5 +6,4 @@
 ## Example Bar Chart, Bubble Chart, Gauge Chart, and Demographic Info panel for ID 958
 
 ### Bar Chart 
-![] (images/github-ID 958 Bar.png)
-
+![] (imagesCharts/github-IDID 958 Bar.png)
